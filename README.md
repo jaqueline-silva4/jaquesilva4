@@ -27,11 +27,7 @@
 </div>
     
     
- <div align="center">
 
-  ![Snake animation](https://github.com/jaquesilva4/jaquesilva4/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
     
     
 
