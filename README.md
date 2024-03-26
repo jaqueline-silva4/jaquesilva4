@@ -7,9 +7,9 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
     
  <div align="center">
-  <a href="https://github.com/jaquesilva4">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaquesilva4&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquesilva4&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/jaquelinesilva4">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqueline silva4&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueline-silva4&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
